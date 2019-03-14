@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestContentFromPdf", "TestContentFromPdf\TestContentFromPdf.csproj", "{79C932F8-8E41-4391-B6DB-26D8750A4028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C932F8-8E41-4391-B6DB-26D8750A4028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C932F8-8E41-4391-B6DB-26D8750A4028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C932F8-8E41-4391-B6DB-26D8750A4028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C932F8-8E41-4391-B6DB-26D8750A4028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
